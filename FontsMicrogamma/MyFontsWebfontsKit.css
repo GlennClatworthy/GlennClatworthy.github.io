@@ -1,0 +1,215 @@
+/* @license
+ * MyFonts Webfont Build ID 2412704, 2012-11-17T12:21:34-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Microgramma D Medium Extended by URW++
+ * URL: http://www.myfonts.com/fonts/urw/microgramma/d-medium-extended/
+ * Copyright: Copyright 2010 URW++ Design &amp; Development Hamburg
+ * Licensed pageviews: 10,000
+ * 
+ * 
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=2412704
+ * 
+ * © 2012 Bitstream Inc
+*/
+
+  
+@font-face {font-family: 'MicrogrammaExtD-Med';src: url('webfonts/24D0A0_0_0.eot');src: url('webfonts/24D0A0_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/24D0A0_0_0.woff') format('woff'),url('webfonts/24D0A0_0_0.ttf') format('truetype');}
+
+
+a:link
+	{
+		text-decoration: none;
+		color: white;
+	}
+
+a:visited
+	{
+		color: white;
+		text-decoration: none;
+	}
+
+a:hover
+	{
+		color:yellow;
+	}
+
+.big
+	{	color: #ff8000;	font-family: fantasy, helvetica, arial;
+		font-size: 30pt;
+		padding-bottom: 6pt;
+	}	
+
+.comL
+	{
+		font-size:6pt;
+		text-align:left;
+		vertical-align:bottom;
+		
+	}
+.comR
+	{
+		font-size:6pt;
+		text-align:right;
+		vertical-align:top;
+		background-color:navy;
+		
+	}
+	
+.rt1
+	{
+		text-align:right;
+		font-family: MicrogrammaExtD-Med;
+		background-color:navy;
+	}
+	
+.rt2
+	{	text-align:right;}
+
+img {float:left;}
+	
+table
+	{
+
+		margin-left: 10px;
+		width: auto;
+	}
+	
+th
+	{
+
+		font-family: MicrogrammaExtD-Med;
+		font-size: 14pt;
+		color: white;
+		border-color-bottom:gray;
+		width: 20%;
+		text-align:left;
+		background-color: navy;
+		line-height: 25pt;
+		padding-left: 5pt;
+
+	}
+	
+	
+.ath
+
+	{
+		padding-left: 5px;
+		font-family: MicrogrammaExtD-Med;
+		font-size: 14pt;
+		color: white;
+		border-color-bottom:gray;
+		width: 20%;
+		text-align:left;
+		background-color:navy;
+		line-height: 25pt;
+	}
+
+td
+	{
+		padding-bottom: 30px;
+		padding-right: 20px;
+		padding-left: 10px;
+		margin-bottom: 10px;
+		font-family: Helvetica, Arial, Verdana;
+		line-height: 22pt;
+		font-size: 12pt;
+		color: white;
+		width: auto;
+		vertical-align: top;
+	}
+	
+.atr
+	{
+		padding-right: 20px;
+		padding-left: 10px;
+		font-family: Helvetica, Arial, Verdana;
+		font-size: 12pt;
+		color: white;
+		width: auto;
+		vertical-align: top;
+
+	}	
+	
+body
+	{background-color:#669988}
+					
+li
+	{
+		list-style-type: circle;
+		padding-bottom: 4pt;
+		font-family: Helvetica, Arial;
+		font-size: 12pt;
+	}
+
+.header
+	{
+		border-width: 750px;
+	}
+	
+img
+	{
+		padding-left: 45px;
+	}
+	
+
+/* To underscore the first table row */
+
+.bb { border-top-color: navy; border-top-width: 1px; border-left-style: none; border-bottom-style: none; border-right-style: none; border-top-style: solid;}
+	
+/* Test IDs and classes for css, theme, php practice: */
+
+.small
+	{	color: #ff8000;	font-family: helvetica, arial;
+		font-size: 10pt;
+	}
+
+#second
+	{	text-align: center;
+	}
+	
+/* End test */
+
+#t1
+{
+top: 25px;
+position: relative;
+padding: 15px;
+height: 25px;
+width: 200px;
+color:white;
+background-color: #6666ff;
+text-align: center
+}
+	
+              
+
+#t2
+{
+top: 38px;
+position: relative;
+padding: 15px;
+height: 25px;
+width: 250px;
+color:white;
+background-color: #ff6666;
+text-align: center
+}
+
+.c1 {
+	background-color: #009999;
+}
+
+.c2 {
+	background-color:#562871;
+}
+
+.c3 {
+	background-colr:#67E667;
+	
+}
